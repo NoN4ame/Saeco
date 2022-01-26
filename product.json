@@ -1,0 +1,110 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "nap",
+      "variant": "plastic, sky blue",
+      "price": 1590,
+      "discount": false
+    },
+    {
+      "id": 2,
+      "name": "series",
+      "variant": "textile, ivina melange",
+      "price": 1270,
+      "discount": false
+    },
+    {
+      "id": 3,
+      "name": "grand prix",
+      "variant": "wood, clear lacquer, walnut",
+      "price": 790,
+      "discount": false
+    },
+    {
+      "id": 4,
+      "name": "series 7",
+      "variant": "full lacquer, chevalier orange",
+      "price": 1890,
+      "discount": true,
+      "discountPrice": 2300
+    },
+    {
+      "id": 5,
+      "name": "drop",
+      "variant": "plastic, white",
+      "price": 2300,
+      "discount": false
+    },
+    {
+      "id": 6,
+      "name": "lily",
+      "variant": "leather, grace, walnut",
+      "price": 3100,
+      "discount": false
+    },
+    {
+      "id": 7,
+      "name": "series 7",
+      "variant": "lacquered, true yellow, chrome",
+      "price": 900,
+      "discount": false
+    },
+    {
+      "id": 8,
+      "name": "ant",
+      "variant": "lacquered whate. chrome",
+      "price": 680,
+      "discount": false
+    },
+    {
+      "id": 9,
+      "name": "prix",
+      "variant": "plastic, pepper grey",
+      "price": 1750,
+      "discount": false
+    },
+    {
+      "id": 10,
+      "name": "grand prix",
+      "variant": "lacqured, paradise orange, chrome",
+      "price": 790,
+      "discount": false
+    },
+    {
+      "id": 11,
+      "name": "drop",
+      "variant": "leather, essential, black",
+      "price": 3490,
+      "discount": false
+    },
+    {
+      "id": 11,
+      "name": "ant",
+      "variant": "wood, clear lacquer, walnut",
+      "price": 890,
+      "discount": false
+    },
+    {
+      "id": 12,
+      "name": "antori",
+      "variant": "plastic, blue",
+      "price": 950,
+      "discount": false
+    },
+    {
+      "id": 13,
+      "name": "antori",
+      "variant": "plastic, brown",
+      "price": 950,
+      "discount": false
+    },
+    {
+      "id": 14,
+      "name": "antori",
+      "variant": "plastic, black",
+      "price": 950,
+      "discount": false
+    }
+  ]
+}
