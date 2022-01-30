@@ -78,28 +78,28 @@
       "discount": false
     },
     {
-      "id": 11,
+      "id": 12,
       "name": "ant",
       "variant": "wood, clear lacquer, walnut",
       "price": 890,
       "discount": false
     },
     {
-      "id": 12,
+      "id": 13,
       "name": "antori",
       "variant": "plastic, blue",
       "price": 950,
       "discount": false
     },
     {
-      "id": 13,
+      "id": 14,
       "name": "antori",
       "variant": "plastic, brown",
       "price": 950,
       "discount": false
     },
     {
-      "id": 14,
+      "id": 15,
       "name": "antori",
       "variant": "plastic, black",
       "price": 950,
