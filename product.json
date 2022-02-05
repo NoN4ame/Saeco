@@ -4,7 +4,7 @@
       "name": "nap",
       "variant": "plastic, sky blue",
       "price": 1590,
-      "img": "products/Nap.png"
+      "img": "products/Nap.png",
       "discount": false
     },
     {
@@ -12,7 +12,7 @@
       "name": "series",
       "variant": "textile, ivina melange",
       "price": 1270,
-      "img": "products/Series.png"  
+      "img": "products/Series.png",
       "discount": false
     },
     {
