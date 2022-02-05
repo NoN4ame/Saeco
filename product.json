@@ -5,7 +5,8 @@
       "variant": "plastic, sky blue",
       "price": 1590,
       "pic": "products/Nap.png",
-      "discount": false
+      "discount": false,
+      "category": ["popular", "new", "our choice"]
     },
     {
       "id": 2,
@@ -13,14 +14,16 @@
       "variant": "textile, ivina melange",
       "price": 1270,
       "pic": "products/Series.png",  
-      "discount": false
+      "discount": false,
+      "category": ["popular", "new"]
     },
     {
       "id": 3,
       "name": "grand prix",
       "variant": "wood, clear lacquer, walnut",
       "price": 790,
-      "discount": false
+      "discount": false,
+      "category": ["popular", "new"]
     },
     {
       "id": 4,
@@ -28,21 +31,24 @@
       "variant": "full lacquer, chevalier orange",
       "price": 1890,
       "discount": true,
-      "discountPrice": 2300
+      "discountPrice": 2300,
+      "category": ["popular"]
     },
     {
       "id": 5,
       "name": "drop",
       "variant": "plastic, white",
       "price": 2300,
-      "discount": false
+      "discount": false,
+      "category": ["popular", "new", "our choice"]  
     },
     {
       "id": 6,
       "name": "lily",
       "variant": "leather, grace, walnut",
       "price": 3100,
-      "discount": false
+      "discount": false,
+      "category": ["popular"]  
     },
     {
       "id": 7,
@@ -56,7 +62,8 @@
       "name": "ant",
       "variant": "lacquered whate. chrome",
       "price": 680,
-      "discount": false
+      "discount": false,
+      "category": ["new"]
     },
     {
       "id": 9,
@@ -70,7 +77,8 @@
       "name": "grand prix",
       "variant": "lacqured, paradise orange, chrome",
       "price": 790,
-      "discount": false
+      "discount": false,
+      "category": ["new", "our choice"]
     },
     {
       "id": 11,
